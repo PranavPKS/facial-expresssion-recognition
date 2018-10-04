@@ -2,26 +2,18 @@
 
 https://goo.gl/Cnroyf
 
+2015 Summer Internship at IIT Kharagpur
 
-Requirements:
-
+__Requirements__:
 OpenCV
-
 DLIB
-
 ScikitLearn
-
 Matplotlib
-
 Numpy
 
-
-Three final files required to the execute/work on are, 
-
+Three final files __required__ to the execute/work on are, 
 Pranav_exp6.py
-
 intial.py
-
 dependency2.py
 
 (further large file requirements are specified inside the files 
