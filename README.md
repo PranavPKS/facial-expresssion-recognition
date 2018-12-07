@@ -2,14 +2,14 @@
 
 https://goo.gl/Cnroyf
 
+2015 Summer Internship at IIT Kharagpur
 
-Requirements:
-OpenCV
-DLIB
-ScikitLearn
-Matplotlib
+__Requirements__:
+OpenCV,
+DLIB,
+ScikitLearn,
+Matplotlib,
 Numpy
-
 
 Three core files required to execute/work on are,
 
